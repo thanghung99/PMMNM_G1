@@ -1,0 +1,82 @@
+a
+.logo {
+    display: flex;
+}
+h2.h2-logo {
+    align-items: center;
+    padding-top: 15px;
+    padding-left: 9px;
+}
+ul.ul-header {
+    display: flex;
+    list-style: none;
+        padding-top: 30px;
+}
+li.li-header {
+    padding: 15px;
+}
+a.a-header {
+    padding: 17px 36px;
+    color: antiquewhite;
+}
+.logo {
+    display: flex;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.header {
+  background: #2F4F4F;
+    color: #ffffff;
+    height: 137px;  
+}
+
+.row-header {
+    margin: 0px;
+    height: 125px;
+}
+.body {
+    margin-top: -24px;
+    color: antiquewhite;
+    background-image: url("OtoXanh.jpg");
+        background: #2F4F4F;
+}
+.ma{
+	 margin-top: -300px;
+}
+img.img-body {
+   
+    width: -webkit-fill-available;
+    height:max-content;
+    max-height:500px;
+    display: block;
+    align-content: center;
+    
+}
+img {
+    width: 73px;
+    height: 72px;
+}
+.row-end {
+    margin-bottom: -66px;
+}
+.row.row-button {
+    padding: 36px;
+    margin-left: 90px;
+}
+
+.button {
+  background-color: Crimson;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width:200px;
+  height: 60px;
+  color: #336
+
+}
+.button4 {background-color: #F8F8FF ; border-radius: 60px;}

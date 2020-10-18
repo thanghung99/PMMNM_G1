@@ -1,0 +1,63 @@
+img.img {
+    width: 100%;
+     /* position: relative; */
+} 
+.form-main {
+    margin: 111px 566px;
+    position: absolute;
+    background: white;
+    border: 1px solid;
+    width: 392px;
+    height: 408px;
+    text-align: center;
+}
+h3.h3-login {
+    background: #33e5b6;
+    padding: 15px;
+    color: wheat;
+}
+input[type="UseName"] {
+    width: 80%;
+    padding: 6px;
+    margin: 18px;
+    border-radius: 5px
+}
+input[type="PassWord"] {
+    width: 80%;
+    padding: 6px;
+    margin: 18px;
+     border-radius: 5px
+}
+button.button-login {
+    width: 80%;
+    padding: 6px;
+    background: red;
+    border: 0px;
+    color: aliceblue;
+     border-radius: 5px
+}
+.conn-diff {
+    margin-top: 20px;
+    font-size: 31px;
+}
+span.span-conn {
+    font-size: 17px;
+}
+span.span-pw {
+    margin-left: 99px;
+}
+button.button-login {
+    margin-top: 11px;
+}
+span.register-user {
+    margin-right: -22px;
+}
+.fb {
+    color: #516eab;
+}
+.tw {
+    color: blue;
+}
+.ins {
+    color: pink;
+}

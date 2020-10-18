@@ -1,0 +1,129 @@
+.logo {
+	display: flex;
+}
+
+h2.h2-logo {
+	align-items: center;
+	padding-top: 15px;
+	padding-left: 9px;
+}
+
+ul.ul-header {
+	display: flex;
+	list-style: none;
+	padding-top: 30px;
+}
+
+li.li-header {
+	padding: 15px;
+}
+
+a.a-header {
+	padding: 17px 36px;
+	color: antiquewhite;
+}
+
+.logo {
+	display: flex;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+.header {
+	background: #2F4F4F;
+	color: antiquewhite;
+	height: 137px;
+}
+
+.row-header {
+	margin: 0px;
+	height: 125px;
+}
+
+.body {
+	margin-top: -24px;
+	color: antiquewhite;
+	background: #2F4F4F;
+	margin-bottom: -70px;
+}
+
+img.img-body {
+   
+    width: -webkit-fill-available;
+    height:max-content;
+    max-height:500px;
+    display: block;
+    align-content: center;
+    
+}
+
+.row-end {
+	margin-bottom: -66px;
+}
+
+.row.row-button {
+	/* width: 228px; */
+	margin: auto;
+	text-align: center;
+	width: 398px;
+}
+
+h3.h3-body {
+	margin: 24px;
+}
+
+.col-md-6 {
+	text-align: left;
+	padding: 15px;
+}
+
+.col-md-6.col-child {
+	border-right: 1px solid;
+}
+
+logo-NV {
+	padding: 21px;
+}
+
+.row {
+	margin: auto;
+}
+
+h4.h4-body {
+	color: chartreuse;
+}
+
+.div-button {
+	text-align: center;
+	padding: 41px;
+	border-radius: 20px;
+}
+
+button.button-insert {
+	background: yellowgreen;
+	color: black;
+}
+
+.button1 {
+	background-color: Crimson;
+	border: none;
+	padding: 41px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 200px;
+	height: 60px;
+	color: #336
+}
+
+.button4 {
+	background-color: #F8F8FF;
+	border-radius: 60px;
+}
+
+.bo {
+	border-radius: 15px;
+}
