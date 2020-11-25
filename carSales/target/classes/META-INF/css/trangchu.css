@@ -1,85 +1,156 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
 .logo {
-    display: flex;
+	display: flex;
 }
+
 h2.h2-logo {
-    align-items: center;
-    padding-top: 15px;
-    padding-left: 9px;
+	align-items: center;
+	padding-top: 15px;
+	padding-left: 9px;
 }
+
 ul.ul-header {
-    display: flex;
-    list-style: none;
-        padding-top: 30px;
+	display: flex;
+	list-style: none;
+	padding-top: 30px;
 }
+
 li.li-header {
-    padding: 15px;
+	padding: 15px;
 }
+
 a.a-header {
-    padding: 17px 36px;
-    color: antiquewhite;
+	padding: 17px 36px;
+	color: antiquewhite;
 }
+
 .logo {
-    display: flex;
-    padding-top: 30px;
-    padding-left: 20px;
+	display: flex;
+	padding-top: 30px;
+	padding-left: 20px;
 }
+
 .header {
-    background:#2F4F4F;
-    color: antiquewhite;
-    height: 137px;
+	background: rgba(0,0,0,0.2);
+	height: 145px;
 }
-.row-header {
-    margin: 0px;
-    height: 100px;
+
+.header .text-1{
+	font-size: 20px;
+	color: #840d0d;
 }
-.body {
-    margin-top: -24px;
-    color: antiquewhite;
-    background:#2F4F4F;
-    margin-bottom: -70px;
+
+.header .top {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: rgba(51, 51, 51, 0.3);
+	color:#eee;
+	height: 45px;
+	box-shadow: 1px 5px 10px;
 }
+
+.header .top a{
+	color:#inherit;
+	display: inline-block;
+	padding-left: 15px;
+	font-weight: 500;
+}
+
+
+.header .menu{
+	height: 125px;
+	background: rgba(88,88,88,0.8);
+	align-items: center;
+}
+.header .menu a{
+	font-size: 40px;
+}
+
+a.move:hover{
+	color: #e40d0d;
+	font-weight: bold;
+}
+
+.heder .menu .img-logo{
+	align-items: center;
+	height: 100%;
+	width: 100px;
+}
+
 img.img-body {
-   
-    width: -webkit-fill-available;
-    height:max-content;
-    max-height:500px;
-    display: block;
-    align-content: center;
-    
+	width: -webkit-fill-available;
+	height: max-content;
+	max-height: 500px;
+	display: block;
+	align-content: center;
 }
-.nen
-{
-	width: auto;
-    height: max-content;
+.img{
+	padding-top: 0px;
+	max-height: 450px;
 }
-.ma{
-	 margin-top: -300px;
+.img .nen img{
+	width: 100%;
+	height:100%;
+}
+
+.ma {
+	margin-top: -300px;
 }
 
 .row-end {
-    margin-bottom: -66px;
+	margin-bottom: -66px;
 }
 
 .row.row-button {
-       margin: auto;
-    text-align: center;
-    width: 1000px;
-    align-items: center;
+	margin: auto;
+	text-align: center;
+	/*  width: 1000px; */
+	align-items: center;
+}
+
+.img-product {
+	height: 141px;
+}
+
+.row.row-products {
+	margin: auto;
+	margin-left: 19px;
 }
 
 h3.h3-body {
-    margin: 24px;
+	margin: 24px;
 }
+
 .col-md-6 {
-    text-align: left;
-    padding: 15px;
+	text-align: left;
+	padding: 15px;
 }
+
 button.button-sua {
-    margin-top: 17px;
-    width: 190px;
-    color: red;
+	margin-top: 17px;
+	width: 190px;
+	color: red;
 }
+
 img.logo-NV {
-  width: 338px;
-    height: 100%;
+	width: 338px;
+	height: 100%;
+}
+
+.body-main{
+	background: rgba(188, 192, 251, 0.3);
+	padding-top: 40px;
+}
+
+.information{
+	padding-top: 5px;
+	background: rgba(66,63,63,0.7);
+}
+.footer{
+	height: 30px;
+	background: rgba(0,0,0,1);
+	text-align: center;
+	color: #fff;
 }

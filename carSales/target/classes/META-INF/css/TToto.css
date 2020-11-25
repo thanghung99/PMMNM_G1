@@ -42,7 +42,7 @@ a.a-header {
 img.img-body {
    
     width: -webkit-fill-available;
-    height:max-content;
+   /*  height:max-content; */
     max-height:500px;
     display: block;
     align-content: center;
